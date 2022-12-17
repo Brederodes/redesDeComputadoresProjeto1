@@ -4,6 +4,7 @@
     gap: 0;
 
     border-radius: 10px;
+    max-width: 100%;
 }
 
 #scheme {
@@ -16,13 +17,13 @@
 }
 
 #client {
-    height: 100px;
+    height: 80px;
     padding: 20px;
     border: 2px solid black;
 }
 
 #server{
-    height: 100px;
+    height: 80px;
     padding: 20px;
     border: 2px solid black;
 }
