@@ -16,13 +16,13 @@
 }
 
 #client {
-    height: 180px;
+    height: 100px;
     padding: 20px;
     border: 2px solid black;
 }
 
 #server{
-    height: 180px;
+    height: 100px;
     padding: 20px;
     border: 2px solid black;
 }
