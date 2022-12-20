@@ -4,18 +4,13 @@
     src: url('../assets/font/Roboto-Regular.ttf');
 }
 
-* {
-    min-width: fit-content;
-    min-height: fit-content;
-}
-
 body {
     text-align: center;
 
     margin: 0px;
     padding: 0px;
-    height: fit-content;
-    width: fit-content;
+    height: 100%;
+    width: 100%;
 
     font-family: Roboto;
     display: flex;
